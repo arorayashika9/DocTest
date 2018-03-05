@@ -1,0 +1,22 @@
+{
+  "Standard": {
+    "wordCount": 1651,
+    "nouns": 425,
+    "adjectives": 88,
+    "verbs": 41
+  },
+  "Eval": {
+    "wordCount": 1368,
+    "nouns": 319,
+    "adjectives": 91,
+    "verbs": 39
+  },
+  "Result": {
+    "commonNouns": 256,
+    "commonAdjectives": 53,
+    "commonVerbs": 20,
+    "docStatus": "Accepted",
+    "docScore": 8.462152732489892,
+    "docRemarks": "Document is poor"
+  }
+}
